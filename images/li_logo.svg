@@ -1,0 +1,25 @@
+<svg width="52" height="52" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 48.2 (47327) - edit by Hasan, Rabiul-->
+ <title>Linkedin </title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <circle r="24" cy="24" cx="24" id="path-1"/>
+  <filter id="filter-2" filterUnits="objectBoundingBox" height="114.6%" width="114.6%" y="-5.2%" x="-7.3%">
+   <feGaussianBlur stdDeviation="1"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="AHA_UI_Kit_Page2">
+   <g id="Linkedin-Gray">
+    <g id="Base">
+     <use stroke="#e1e1f2" id="svg_1" x="2" y="1" xlink:href="#path-1" filter="url(#filter-2)" fill="#003f7f"/>
+     <use stroke="#e1e1f2" id="svg_2" x="2" y="1" xlink:href="#path-1" fill-rule="evenodd" fill="#003f7f"/>
+    </g>
+    <polygon stroke="#ffffff" points="21.333343505859375,33 18,33 18,22.89453125 21.333343505859375,22.89453125 " fill="#ffffff" id="Path"/>
+    <path stroke="#ffffff" fill="#ffffff" id="Path" d="m19.661,20.36842c-0.94914,0 -1.661,-0.81307 -1.661,-1.62613c0,-0.92922 0.71186,-1.74229 1.661,-1.74229c0.94914,0 1.661,0.69691 1.661,1.62613c0.11864,0.92922 -0.71186,1.74229 -1.661,1.74229z"/>
+    <path stroke="#ffffff" fill="#ffffff" id="Path" d="m32.51786,32.87677l-3.0506,0l0,-4.80617c0,-1.10911 0,-2.58793 -1.58631,-2.58793c-1.58631,0 -1.83035,1.23235 -1.83035,2.58793l0,4.9294l-3.0506,0l0,-9.85879l2.92857,0l0,1.35558c0.36607,-0.73941 1.34226,-1.60205 2.92857,-1.60205c1.58631,0 3.66072,2.09499 3.66072,4.68292l0,5.29911z"/>
+   </g>
+  </g>
+ </g>
+</svg>
