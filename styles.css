@@ -1,0 +1,29 @@
+/* Style specifies border, shadow, margin, and padding for main element */
+main {
+	border-style: none;
+	box-shadow: 0.25em 0.25em 0.25em #d1cece;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	color: #000000;
+	text-align: left;
+	font-size: 1.5em;
+	}
+
+/* Style specifies left and right padding for paragraph elements within the main element */
+	main p {
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	font-size: 1em;
+   }
+   
+ 
+
+/* Style for the footer specifies font size, text alignment, and top margin */
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top: 2em;
+	background-color: aliceblue;
+	border-radius: 0.2em;
+		
+}
